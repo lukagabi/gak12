@@ -14,7 +14,7 @@ age: 17,
 
 nicknames: ['Lashki','Gigu','witcher'],
 
-monthlyIncome: 2300,
+monthlyIncome: 2500,
 };
 
 console.log('web'+ webDesigner.firstName);
@@ -25,8 +25,8 @@ console.log('money: ' + webDesigner.monthlyIncome);
 
 let rect = {
 
-width: 12,
-height: 14,
+width: 13,
+height: 16,
 };
 
 console.log('tricks= ' + rect.width * rect.height);
