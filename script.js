@@ -14,7 +14,7 @@ age: 17,
 
 nicknames: ['Lashki','Gigu','witcher'],
 
-monthlyIncome: 2500,
+monthlyIncome: 2500
 };
 
 console.log('web:'+ webDesigner.firstName);
