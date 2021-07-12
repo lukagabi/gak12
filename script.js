@@ -17,11 +17,11 @@ nicknames: ['Lashki','Gigu','witcher'],
 monthlyIncome: 2500,
 };
 
-console.log('web'+ webDesigner.firstName);
-console.log('design'+ webDesigner.lastName);
-console.log('java' + webDesigner.age,);
-console.log('nicks: ' + webDesigner.nicknames[0] + ', ' + webDesigner.nicknames[1] + ', ' + webDesigner.nicknames[2]);
-console.log('money: ' + webDesigner.monthlyIncome);
+console.log('web:'+ webDesigner.firstName);
+console.log('design:'+ webDesigner.lastName);
+console.log('java:'+ webDesigner.age,);
+console.log('nicks:'+ webDesigner.nicknames[0] + ', ' + webDesigner.nicknames[1] + ', ' + webDesigner.nicknames[2]);
+console.log('money:'+ webDesigner.monthlyIncome);
 
 let rect = {
 
